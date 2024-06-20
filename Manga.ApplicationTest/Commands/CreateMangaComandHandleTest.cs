@@ -12,12 +12,8 @@ public class CreateMangaComandHandleTest
     [Fact]
     public async Task Handle_Should_Create_Manga_Sucessfully_And_Return_Guid()
     {
-        //Arrange
-        string Name = "Sakamoto Days";
-        float Rating = 10;
-        bool Read = false;
         
-        var command = new CreateMangaCommand(Name, Rating, Read);
+        var command = new CreateMangaCommand(Fixtures.Fixtures.Name, Fixtures.Fixtures.Rating, Fixtures.Fixtures.True);
         var handle = new CreateMangaCommandHandle(_mangaRepository, _uow);
 
         //Act
@@ -31,12 +27,8 @@ public class CreateMangaComandHandleTest
     [Fact]
     public async Task Handle_Should_Return_Empty_Guid_When_Manga_Name_Is_Empty()
     {
-        //Arrange
-        string Name = string.Empty;
-        float Rating = 10;
-        bool Read = false;
         
-        var command = new CreateMangaCommand(Name, Rating, Read);
+        var command = new CreateMangaCommand(Fixtures.Fixtures.NameEmpty, Fixtures.Fixtures.Rating, Fixtures.Fixtures.False);
         var handle = new CreateMangaCommandHandle(_mangaRepository, _uow);
         
         //Act
@@ -44,5 +36,6 @@ public class CreateMangaComandHandleTest
 
         Assert.IsType<Guid>(result);
         Assert.Equal(result, Guid.Empty);
+        
     }
 }

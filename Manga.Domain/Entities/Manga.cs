@@ -24,4 +24,27 @@ public class Manga
 
         return null;
     }
+
+    public bool ChangeReadMangaTrue(bool read)
+    {
+        if (read)
+        {
+            Read = read;
+            return Read;
+        }
+
+        return Read;
+    }
+    
+    public bool ChangeReadMangaFalse(bool read)
+    {
+        if (!read)
+        {
+            Read = read;
+
+            return Read;
+        }
+
+        return Read;
+    }
 }
