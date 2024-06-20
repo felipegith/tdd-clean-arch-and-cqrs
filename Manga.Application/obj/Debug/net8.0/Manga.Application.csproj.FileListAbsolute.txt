@@ -1,0 +1,17 @@
+/home/felipe/RiderProjects/Mangas/Manga.Application/bin/Debug/net8.0/Manga.Application.deps.json
+/home/felipe/RiderProjects/Mangas/Manga.Application/bin/Debug/net8.0/Manga.Application.dll
+/home/felipe/RiderProjects/Mangas/Manga.Application/bin/Debug/net8.0/Manga.Application.pdb
+/home/felipe/RiderProjects/Mangas/Manga.Application/bin/Debug/net8.0/Manga.Domain.dll
+/home/felipe/RiderProjects/Mangas/Manga.Application/bin/Debug/net8.0/Manga.Infrastructure.dll
+/home/felipe/RiderProjects/Mangas/Manga.Application/bin/Debug/net8.0/Manga.Domain.pdb
+/home/felipe/RiderProjects/Mangas/Manga.Application/bin/Debug/net8.0/Manga.Infrastructure.pdb
+/home/felipe/RiderProjects/Mangas/Manga.Application/obj/Debug/net8.0/Manga.Application.csproj.AssemblyReference.cache
+/home/felipe/RiderProjects/Mangas/Manga.Application/obj/Debug/net8.0/Manga.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/felipe/RiderProjects/Mangas/Manga.Application/obj/Debug/net8.0/Manga.Application.AssemblyInfoInputs.cache
+/home/felipe/RiderProjects/Mangas/Manga.Application/obj/Debug/net8.0/Manga.Application.AssemblyInfo.cs
+/home/felipe/RiderProjects/Mangas/Manga.Application/obj/Debug/net8.0/Manga.Application.csproj.CoreCompileInputs.cache
+/home/felipe/RiderProjects/Mangas/Manga.Application/obj/Debug/net8.0/Manga.Application.csproj.CopyComplete
+/home/felipe/RiderProjects/Mangas/Manga.Application/obj/Debug/net8.0/Manga.Application.dll
+/home/felipe/RiderProjects/Mangas/Manga.Application/obj/Debug/net8.0/refint/Manga.Application.dll
+/home/felipe/RiderProjects/Mangas/Manga.Application/obj/Debug/net8.0/Manga.Application.pdb
+/home/felipe/RiderProjects/Mangas/Manga.Application/obj/Debug/net8.0/ref/Manga.Application.dll

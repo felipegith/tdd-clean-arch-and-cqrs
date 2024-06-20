@@ -1,0 +1,15 @@
+/home/felipe/RiderProjects/Mangas/Manga.Infrastructure/bin/Debug/net8.0/Manga.Infrastructure.deps.json
+/home/felipe/RiderProjects/Mangas/Manga.Infrastructure/bin/Debug/net8.0/Manga.Infrastructure.dll
+/home/felipe/RiderProjects/Mangas/Manga.Infrastructure/bin/Debug/net8.0/Manga.Infrastructure.pdb
+/home/felipe/RiderProjects/Mangas/Manga.Infrastructure/bin/Debug/net8.0/Manga.Domain.dll
+/home/felipe/RiderProjects/Mangas/Manga.Infrastructure/bin/Debug/net8.0/Manga.Domain.pdb
+/home/felipe/RiderProjects/Mangas/Manga.Infrastructure/obj/Debug/net8.0/Manga.Infrastructure.csproj.AssemblyReference.cache
+/home/felipe/RiderProjects/Mangas/Manga.Infrastructure/obj/Debug/net8.0/Manga.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/felipe/RiderProjects/Mangas/Manga.Infrastructure/obj/Debug/net8.0/Manga.Infrastructure.AssemblyInfoInputs.cache
+/home/felipe/RiderProjects/Mangas/Manga.Infrastructure/obj/Debug/net8.0/Manga.Infrastructure.AssemblyInfo.cs
+/home/felipe/RiderProjects/Mangas/Manga.Infrastructure/obj/Debug/net8.0/Manga.Infrastructure.csproj.CoreCompileInputs.cache
+/home/felipe/RiderProjects/Mangas/Manga.Infrastructure/obj/Debug/net8.0/Manga.Infrastructure.csproj.CopyComplete
+/home/felipe/RiderProjects/Mangas/Manga.Infrastructure/obj/Debug/net8.0/Manga.Infrastructure.dll
+/home/felipe/RiderProjects/Mangas/Manga.Infrastructure/obj/Debug/net8.0/refint/Manga.Infrastructure.dll
+/home/felipe/RiderProjects/Mangas/Manga.Infrastructure/obj/Debug/net8.0/Manga.Infrastructure.pdb
+/home/felipe/RiderProjects/Mangas/Manga.Infrastructure/obj/Debug/net8.0/ref/Manga.Infrastructure.dll

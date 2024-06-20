@@ -1,0 +1,11 @@
+/home/felipe/RiderProjects/Mangas/Manga.Domain/bin/Debug/net8.0/Manga.Domain.deps.json
+/home/felipe/RiderProjects/Mangas/Manga.Domain/bin/Debug/net8.0/Manga.Domain.dll
+/home/felipe/RiderProjects/Mangas/Manga.Domain/bin/Debug/net8.0/Manga.Domain.pdb
+/home/felipe/RiderProjects/Mangas/Manga.Domain/obj/Debug/net8.0/Manga.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/felipe/RiderProjects/Mangas/Manga.Domain/obj/Debug/net8.0/Manga.Domain.AssemblyInfoInputs.cache
+/home/felipe/RiderProjects/Mangas/Manga.Domain/obj/Debug/net8.0/Manga.Domain.AssemblyInfo.cs
+/home/felipe/RiderProjects/Mangas/Manga.Domain/obj/Debug/net8.0/Manga.Domain.csproj.CoreCompileInputs.cache
+/home/felipe/RiderProjects/Mangas/Manga.Domain/obj/Debug/net8.0/Manga.Domain.dll
+/home/felipe/RiderProjects/Mangas/Manga.Domain/obj/Debug/net8.0/refint/Manga.Domain.dll
+/home/felipe/RiderProjects/Mangas/Manga.Domain/obj/Debug/net8.0/Manga.Domain.pdb
+/home/felipe/RiderProjects/Mangas/Manga.Domain/obj/Debug/net8.0/ref/Manga.Domain.dll
