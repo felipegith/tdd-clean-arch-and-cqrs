@@ -1,5 +1,6 @@
 using Manga.Infrastructure.Context;
 using Manga.Infrastructure.Interface;
+using Microsoft.EntityFrameworkCore;
 
 namespace Manga.Infrastructure.Repositories;
 
@@ -23,5 +24,10 @@ public class MangaRepository : IMangaRepository
             Console.WriteLine(e);
             throw;
         }
+    }
+
+    public async Task<IEnumerable<Domain.Entities.Manga>> GetAllAsync(CancellationToken cancellationToken)
+    {
+        return await _database.Mangas.AsNoTracking().ToListAsync(cancellationToken);
     }
 }

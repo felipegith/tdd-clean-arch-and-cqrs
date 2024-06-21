@@ -2,8 +2,20 @@ namespace Manga.Domain.Entities;
 
 public class Manga
 {
+    public Manga()
+    {
+        
+    }
+    public Manga(Guid id, string name, float rating, bool read)
+    {
+        Id = id;
+        Name = name;
+        Rating = rating;
+        Read = read;
+    }
+
     public Guid Id { get; private set; }
-    public string Name { get; private set; }
+    public string Name { get;  set; }
     public float Rating { get; private set; }
     public bool Read { get; private set; }
 
